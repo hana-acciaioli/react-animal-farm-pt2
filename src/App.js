@@ -1,6 +1,7 @@
 import React from 'react';
 
 import './App.css';
+import background from './background.png';
 
 import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
